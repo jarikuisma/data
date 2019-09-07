@@ -1,0 +1,163 @@
+"112q -- Vanhojen osakeasuntojen keskihinnat ja kauppojen lukumäärät postinumeroalueittain ja rakennusvuosittain, 2010-2018"
+
+"Postinumero","Talotyyppi","Rakennusvuosi","2010 Neliöhinta (EUR/m2)","2011 Neliöhinta (EUR/m2)","2012 Neliöhinta (EUR/m2)","2013 Neliöhinta (EUR/m2)","2014 Neliöhinta (EUR/m2)","2015 Neliöhinta (EUR/m2)","2016 Neliöhinta (EUR/m2)","2017 Neliöhinta (EUR/m2)","2018 Neliöhinta (EUR/m2)"
+"00100 Helsinki Keskusta - Etu-Töölö   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",5527,5765,6167,6524,6712,6634,5466,7305,7776
+"00100 Helsinki Keskusta - Etu-Töölö   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",5065,5714,5846,6091,5971,6220,6028,6755,7030
+"00120 Punavuori   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",5533,6076,6119,6611,6366,6804,.,.,.
+"00120 Punavuori   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",5369,5414,5789,6150,5943,6332,6327,6854,7339
+"00130 Kaartinkaupunki   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",5471,.,6236,.,.,.,7671,8546,.
+"00130 Kaartinkaupunki   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",5486,6350,6306,6529,.,.,7350,7729,.
+"00140 Kaivopuisto - Ullanlinna   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",5864,6311,6617,6960,6945,7042,7403,.,.
+"00140 Kaivopuisto - Ullanlinna   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",5489,6146,6021,6494,6315,6557,6868,7291,7644
+"00150 Eira - Hernesaari   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",5370,5814,.,6483,6959,.,.,.,.
+"00150 Eira - Hernesaari   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",5106,5700,5732,6053,6317,6214,6453,6876,7407
+"00160 Katajanokka   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",5201,5374,6613,.,.,6430,.,.,7209
+"00160 Katajanokka   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",5564,5284,5837,6159,5870,5837,5766,6200,6248
+"00170 Kruununhaka   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",5787,5928,6319,6503,6803,6912,7489,.,7571
+"00170 Kruununhaka   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",5191,5734,5719,6198,5988,6338,6295,6760,7251
+"00180 Kamppi - Ruoholahti   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",5426,5917,.,.,.,6856,.,.,.
+"00180 Kamppi - Ruoholahti   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,5389,5582,5747,5899,6144,6317,6630,7077
+"00190 Suomenlinna   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00190 Suomenlinna   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00200 Lauttasaari   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",4626,4883,5178,5381,5540,5586,.,6425,6692
+"00200 Lauttasaari   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",4085,4393,4578,4810,4850,4929,5072,5409,5865
+"00210 Vattuniemi   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",4681,4735,.,5579,.,.,.,.,.
+"00210 Vattuniemi   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",4452,4553,4799,4945,5055,5268,5300,5250,5838
+"00220 Jätkäsaari   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00220 Jätkäsaari   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00240 Länsi-Pasila   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,5444,.,.,.,.
+"00240 Länsi-Pasila   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,.,3831,.,4484,.,.,4485,4784
+"00250 Taka-Töölö   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",4954,5194,5640,6116,5965,6257,6521,.,7238
+"00250 Taka-Töölö   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",4626,4910,5075,5314,5313,5503,5749,6033,6294
+"00260 Keski-Töölö   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",5004,5654,5772,6201,6545,6306,6556,7085,7154
+"00260 Keski-Töölö   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",4887,5240,5407,5554,5688,5756,5908,6341,6891
+"00270 Pohjois-Meilahti   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",4981,5288,5668,6019,6010,6200,.,6823,.
+"00270 Pohjois-Meilahti   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",4412,4602,4933,5184,5261,5211,5545,5870,6191
+"00280 Ruskeasuo   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",4487,.,4925,.,5018,5687,5754,5765,6122
+"00280 Ruskeasuo   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",4164,4423,4661,4765,5097,5050,5152,5227,5694
+"00290 Meilahden sairaala-alue   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00290 Meilahden sairaala-alue   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00300 Pikku Huopalahti   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,.,.,4572,4733,.
+"00300 Pikku Huopalahti   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",4612,4133,4086,4790,4435,.,5296,5925,.
+"00310 Kivihaka   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,3785,.,4358,4218,.,4747,.,.
+"00310 Kivihaka   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",3595,2877,3386,3252,3263,3747,4172,4391,.
+"00320 Etelä-Haaga   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",4031,.,4652,4709,.,.,.,5666,.
+"00320 Etelä-Haaga   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,3610,3751,4058,4163,4347,4533,4385,4973
+"00330 Munkkiniemi   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",4678,5033,.,.,.,.,.,6176,6668
+"00330 Munkkiniemi   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,4487,4647,4926,5064,5097,5192,5330,5802
+"00340 Kuusisaari-Lehtisaari   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00340 Kuusisaari-Lehtisaari   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",3052,3524,.,.,3637,.,3959,.,.
+"00350 Munkkivuori-Niemenmäki   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",4039,4021,.,4911,4814,4910,4920,5088,4940
+"00350 Munkkivuori-Niemenmäki   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,3595,3914,4036,4037,4160,4373,4553,4400
+"00360 Pajamäki   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3548,3387,3423,.,3887,4336,5173,4594,4895
+"00360 Pajamäki   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2726,2966,3168,.,3471,3484,3713,3611,4149
+"00370 Reimarla   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3404,3588,3641,3744,3978,4176,4046,3916,4044
+"00370 Reimarla   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",3024,3207,3273,3271,2981,3204,3286,3493,3279
+"00380 Pitäjänmäen teollisuusalue   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,5107,4804,5190,.,.
+"00380 Pitäjänmäen teollisuusalue   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",3811,.,4256,.,4884,4629,4975,4802,5273
+"00390 Konala   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3266,3353,3514,3722,4014,4193,4135,4300,4362
+"00390 Konala   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2704,2694,2893,2861,2992,3011,3036,3132,3195
+"00400 Pohjois-Haaga   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3719,4003,4315,4597,4748,4877,4620,4968,.
+"00400 Pohjois-Haaga   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",3056,3232,3399,3589,3613,3775,3753,4184,4185
+"00410 Malminkartano   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,3164,.,.,.,.,.,3562,.
+"00410 Malminkartano   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,2624,.,.,.,.,.,2772,2880
+"00420 Kannelmäki   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3223,3463,3575,3786,3774,4157,3985,4329,4598
+"00420 Kannelmäki   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2679,2655,2701,2942,2904,3062,2937,3334,3372
+"00430 Maununneva   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00430 Maununneva   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00440 Lassila   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,4190,.,4506,.,.,.,4651
+"00440 Lassila   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",3010,3225,3310,3366,3419,3450,3587,3600,3817
+"00500 Sörnäinen   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",4343,4614,4834,5309,5427,5600,5954,6222,6385
+"00500 Sörnäinen   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",3896,4082,4259,4524,4685,4850,5156,5331,5716
+"00510 Etu-Vallila - Alppila   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",4320,.,4847,5016,5274,5461,5509,6217,6413
+"00510 Etu-Vallila - Alppila   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",3781,3995,4146,4546,4533,4686,4947,5251,5845
+"00520 Itä-Pasila   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",4171,4652,4899,4996,5173,5578,5658,5921,5807
+"00520 Itä-Pasila   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",3504,3664,3898,4359,4208,4438,4687,5405,5561
+"00530 Kallio   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",4408,4676,5026,5380,5513,5555,.,6106,6279
+"00530 Kallio   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",4000,4287,4452,4755,4874,5026,5111,5431,5791
+"00540 Kalasatama   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00540 Kalasatama   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00550 Vallila   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",4029,.,.,.,.,5353,.,5685,.
+"00550 Vallila   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,3769,3921,4242,4267,4453,4584,5002,5371
+"00560 Toukola-Vanhakaupunki   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3850,.,.,5410,4637,.,5346,5345,5672
+"00560 Toukola-Vanhakaupunki   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",4300,4473,4481,4825,5038,4864,5235,5464,5393
+"00570 Kulosaari   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,4534,.,.,.,5545,5880,6370
+"00570 Kulosaari   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",3709,3637,4154,4241,4080,4491,4470,5300,5710
+"00580 Verkkosaari   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00580 Verkkosaari   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00590 Kaitalahti   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00590 Kaitalahti   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00600 Koskela-Helsinki   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3249,.,.,.,.,.,.,.,.
+"00600 Koskela-Helsinki   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2588,.,2653,.,2969,.,2990,3148,.
+"00610 Käpylä   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3887,.,.,.,4998,.,5289,5212,5466
+"00610 Käpylä   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,3837,4164,4326,4634,4550,4653,5055,5132
+"00620 Metsälä-Etelä-Oulunkylä   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3339,.,3678,.,4505,4062,.,.,5149
+"00620 Metsälä-Etelä-Oulunkylä   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2872,.,3140,.,3798,3656,.,.,4067
+"00630 Maunula-Suursuo   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,3846,.,4389,4440,4286,4697
+"00630 Maunula-Suursuo   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2537,2686,3059,3161,3259,3295,3448,3586,3705
+"00640 Oulunkylä-Patola   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3221,3269,3745,3863,3964,4404,3974,4194,4277
+"00640 Oulunkylä-Patola   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2836,2961,3125,3227,3027,3114,3272,3289,3403
+"00650 Veräjämäki   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00650 Veräjämäki   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,.,.,3373,.,.,3571,.,.
+"00660 Länsi-Pakila   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00660 Länsi-Pakila   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,.,2653,2592,.,.,.,.,.
+"00670 Paloheinä   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00670 Paloheinä   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00680 Itä-Pakila   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00680 Itä-Pakila   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00690 Tuomarinkylä-Torpparinmäki   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00690 Tuomarinkylä-Torpparinmäki   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00700 Malmi   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3462,3361,3762,3750,3882,3883,4066,4168,3972
+"00700 Malmi   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2780,2888,2910,2996,3016,3160,3163,3348,3157
+"00710 Pihlajamäki   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3070,2888,3294,3034,3257,3438,3543,3612,3825
+"00710 Pihlajamäki   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2421,2376,2579,2471,2492,2533,2520,2681,2733
+"00720 Pukinmäki-Savela   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3589,3762,4019,4156,4153,3970,4164,4309,4179
+"00720 Pukinmäki-Savela   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2679,2896,3017,3206,3096,3135,2987,3023,3250
+"00730 Tapanila   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3614,3527,3564,3995,4295,3872,.,4368,.
+"00730 Tapanila   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2980,2979,2962,3147,3316,3238,.,3082,.
+"00740 Siltamäki   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3243,3307,3377,3623,3556,3530,.,3618,.
+"00740 Siltamäki   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2354,2445,2449,2438,2551,2290,.,2211,.
+"00750 Puistola   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,2783,3282,.,.,3514,.,3449,.
+"00750 Puistola   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2590,2291,2387,.,.,2555,.,2571,.
+"00760 Suurmetsä   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00760 Suurmetsä   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",1938,.,.,.,.,.,2667,.,.
+"00770 Jakomäki - Alppikylä   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00770 Jakomäki - Alppikylä   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,.,2219,2157,2208,2214,1913,.,.
+"00780 Tapaninvainio   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3250,3710,3841,.,.,4116,3918,4385,4185
+"00780 Tapaninvainio   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,3121,3000,.,.,3069,3224,3216,3517
+"00790 Viikki   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,4832,.,5109,.,4881,.
+"00790 Viikki   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,.,.,4166,.,4020,.,4474,.
+"00800 Länsi-Herttoniemi   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3839,3877,4205,4182,4927,4635,4797,5031,5383
+"00800 Länsi-Herttoniemi   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",3142,3262,3449,3790,4010,4128,4249,4321,4612
+"00810 Herttoniemi   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3933,3972,4303,.,.,.,.,5147,.
+"00810 Herttoniemi   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",3696,3949,3873,4276,4402,4449,4702,4665,4896
+"00820 Roihuvuori   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3232,3422,3688,3569,3869,3864,4080,4571,4516
+"00820 Roihuvuori   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2622,2739,2857,2938,2951,2911,3007,3134,3441
+"00830 Tammisalo   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00830 Tammisalo   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,.,.,3458,3156,.,.,.,.
+"00840 Laajasalo   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3554,3666,3854,3987,4188,4234,4254,4666,4607
+"00840 Laajasalo   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2673,2877,2955,3087,3323,3118,3296,3346,3389
+"00850 Jollas   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00850 Jollas   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00870 Etelä-Laajasalo   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00870 Etelä-Laajasalo   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,2546,.,2701,2543,.,.,.,.
+"00900 Puotinharju   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3329,3320,.,.,.,4199,.,.,.
+"00900 Puotinharju   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2418,2517,2589,2870,2969,2940,2941,3057,3136
+"00910 Puotila   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3316,.,.,.,.,.,.,4077,3905
+"00910 Puotila   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,2944,3086,3002,3053,3019,3181,3258,3298
+"00920 Myllypuro   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",2738,3187,.,3400,.,3772,.,.,.
+"00920 Myllypuro   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2319,2417,.,2727,.,2620,.,.,.
+"00930 Itäkeskus-Marjaniemi   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3089,.,.,.,.,4162,.,.,.
+"00930 Itäkeskus-Marjaniemi   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2632,.,.,.,.,3795,.,.,.
+"00940 Kontula - Vesala   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3088,3098,3144,3372,3395,3437,3418,3286,3503
+"00940 Kontula - Vesala   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2310,2404,2386,2432,2304,2377,2241,2283,2343
+"00950 Vartioharju   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",.,.,.,.,.,.,.,.,.
+"00950 Vartioharju   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,.,.,.,2988,.,.,.,.
+"00960 Pohjois-Vuosaari   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3285,3392,3845,3841,4303,4277,4178,3858,4184
+"00960 Pohjois-Vuosaari   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2281,2382,2503,2684,2721,2786,2792,2916,2909
+"00970 Mellunmäki   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",2985,.,3431,3685,3608,3346,3574,3483,.
+"00970 Mellunmäki   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",.,2477,2570,2578,2523,2459,2393,2539,2387
+"00980 Etelä-Vuosaari   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",3037,3205,3076,3435,3742,3223,3788,4009,4063
+"00980 Etelä-Vuosaari   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",2664,2649,2693,2985,3131,3186,3128,3281,3200
+"00990 Aurinkolahti   (Helsinki )","Kerrostalo yksiöt","Rakennusvuodet yhteensä",4156,4425,4715,4753,4585,4806,5146,5131,.
+"00990 Aurinkolahti   (Helsinki )","Kerrostalo kaksiot","Rakennusvuodet yhteensä",3915,3952,4278,4425,4376,4495,4506,4741,4820
